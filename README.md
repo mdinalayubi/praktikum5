@@ -60,5 +60,22 @@ print(30*"═")
 
 ```
 ## Hasil Output Tugas Latihan 5
-![Gambar 3](hasil/hasilpraktikum5.3.png)
-![Gambar 2](hasil/hasil%20praktikum5.1.png)
+![Gambar 2](hasil/hasilpraktikum5.3.png)
+![Gambar 3](hasil/hasil%20praktikum5.1.png)
+## Tugas Praktikum 5
+![Gambar 4](hasil/tugas_praktikum5.jpeg)
+## Penjelasan Praktikum 5
+1.) Penggunaan if c.lower()
+if c.lower() fungsinya apabila user menginputkan denga huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai. Contoh :
+
+if c.lower() == q
+
+2.) Penggunaan while True
+while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
+
+3.) Penggunaan else
+Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while True
+
+4.) Penggunaan valuveError
+
+Fungsinya apabila diinputkan bukan berupa type maka hasil nya error (valueError)
