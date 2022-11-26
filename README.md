@@ -8,6 +8,7 @@
 + ![gambar1](hasil/tugas_latihan_5.jpeg)
 + ## Source Code latihan5
 + '''python
++ 
 + daftarKontak = {"Nama":"Nomer Telpon"}
 + kontak       = {'Ayubi':'082317751464', 'Andi' : '087677776', 'Dapit' : '0877433331430'}
 + 
