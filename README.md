@@ -7,3 +7,4 @@
 + ## Tugas latihan 5
 + ![gambar1](hasil/tugas_latihan_5.jpeg)
 + ## Source Code latihan5
++ '''praktikum5.1.py
