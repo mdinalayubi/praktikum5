@@ -60,5 +60,5 @@ print(30*"═")
 
 ```
 ## Hasil Output Tugas Latihan 5
-![Gambar 2](hasil/hasil%20praktikum5.1.png)
 ![Gambar 3](hasil/hasilpraktikum5.3.png)
+![Gambar 2](hasil/hasil%20praktikum5.1.png)
