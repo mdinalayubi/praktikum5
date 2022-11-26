@@ -271,3 +271,6 @@ while True:
         P("Pilih menu yang tersedia")
 
 ```
+
+## Hasil Output Praktikum 5
+![Gambar 5](hasil/hasil%20praktikum5.2.png)
