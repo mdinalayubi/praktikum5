@@ -274,3 +274,6 @@ while True:
 
 ## Hasil Output Praktikum 5
 ![Gambar 5](hasil/hasil%20praktikum5.2.png)
+
+## Hasil Database.txt
+![Gambar 6](hasil/database.txt.png)
