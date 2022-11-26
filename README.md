@@ -52,7 +52,7 @@ print("Tampilkan daftar Nama dan nomornya")
 print(kontak.items())
 print(30*"═")
 
-#MengHapus kontak Andi
+#MengHapus kontak Dapit
 print("Hapus kontak Dapit")
 kontak.pop('Dapit')
 print(kontak.items())
