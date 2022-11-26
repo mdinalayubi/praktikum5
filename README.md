@@ -61,7 +61,7 @@ print(30*"═")
 ```
 ## Hasil Output Tugas Latihan 5
 ![Gambar 2](hasil/hasilpraktikum5.3.png)
-![Gambar 3](hasil/hasil%20praktikum5.1.png)
+![Gambar 3](hasil/hasilpraktikum5.1.png)
 ## Tugas Praktikum 5
 ![Gambar 4](hasil/tugas_praktikum5.jpeg)
 ## Penjelasan Praktikum 5
@@ -273,7 +273,7 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![Gambar 5](hasil/hasil%20praktikum5.2.png)
+![Gambar 5](hasil/hasilpraktikum5.2.png)
 
 ## Hasil Database.txt
 ![Gambar 6](hasil/database.txt.png)
